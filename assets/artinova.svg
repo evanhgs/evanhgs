@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="28" viewBox="0 0 164 28" role="img" aria-labelledby="title desc">
+  <title id="title">Artinova Software</title>
+  <desc id="desc">Artinova monogram and wordmark in a compact dark badge.</desc>
+
+  <rect x="0.5" y="0.5" width="163" height="27" rx="5.5" fill="#0d1117" stroke="#0c55e6"/>
+  <rect x="5" y="4" width="22" height="20" rx="5" fill="#0c55e6"/>
+
+  <!-- A compact, geometric A: the cut-out keeps the mark crisp at badge size. -->
+  <path fill="#fff" fill-rule="evenodd" d="M16 7.1 23.25 21h-3.7l-1.12-2.35h-4.86L12.45 21h-3.7L16 7.1Zm0 5.25-1.35 3.2h2.7L16 12.35Z"/>
+
+  <text x="35" y="18.4" fill="#f0f6fc" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="750" letter-spacing="0.9">ARTINOVA</text>
+  <circle cx="153" cy="14" r="2.25" fill="#0c55e6"/>
+</svg>
