@@ -1,32 +1,3 @@
-<div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Evan full-stack junior developer" />
-
-<a href="https://github.com/evanhgs?tab=followers"><img src="https://img.shields.io/github/followers/evanhgs?label=Follow&style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117" alt="GitHub followers" /></a>
-<a href="https://github.com/evanhgs?tab=repositories"><img src="https://img.shields.io/badge/Public_repositories-19-7c3aed?style=for-the-badge&logo=github&labelColor=0d1117" alt="Public repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=evanhgs&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/artinova-software"><img src="./assets/artinova.svg" height="28" alt="Artinova Software" /></a>
-
-</div>
-
-## `> whoami`
-
-```ts
-const evan = {
-  role: "Computer Science fresh grad & full-stack young developer",
-  location: "France 🇫🇷",
-  building: ["web experiences", "APIs", "desktop tools"],
-  currentStack: ["TypeScript", "Python", "Rust", "Php"],
-  mindset: "Create. Ship. Learn. Refactor. Repeat."
-};
-```
-
-I turn ideas into working products like Artinova* from polished interfaces to fast APIs and useful automation. I care about clean architecture, precise code, optimisation and production infras
-
-[*Artinova Saas](https://www.linkedin.com/company/artinovafr)
-
-<br />
-
 ## `> tech --stack`
 
 <div align="center">
